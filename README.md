@@ -8,6 +8,17 @@ Sitio web institucional de la **Caja Municipal de Ahorro y Crédito de Sullana**
 
 </div>
 
+## Estructura (en directorio [web](web/))
+
+```
+├── index.htm                    # Portada
+├── cgi-bin                      #Scripts CGI en Perl
+│   ├── basesdatos/              # Tablas de tasas y datos de empleados
+│   └── plantillas/              # Plantillas HTML para los scripts CGI
+├── archivossubidos/             # Noticias publicadas (noticortas.htm + .bd)
+└── basurero/                    # Hojas de estilo descartadas
+```
+
 ## Análisis
 
 <div align=center>
