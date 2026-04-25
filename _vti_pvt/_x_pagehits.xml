@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="oct 2002" total="4039">
+<item str="images/cmac_001.swf" cnt="504" />
+<item str="cmac/images/cmac_001.swf" cnt="395" />
+<item str="index.htm" cnt="369" />
+<item str="cmac/index.htm" cnt="274" />
+<item str="Default.htm" cnt="171" />
+<item str="cgi-bin/busqueda.emails.pl" cnt="135" />
+<item str="cmac/cgi-bin/busqueda.emails.pl" cnt="117" />
+<item str="new_index.htm" cnt="115" />
+<item str="cmac/new_index.htm" cnt="115" />
+<item str="cgi-bin/miPerl.pl" cnt="97" />
+<item str="cmac/_miPlantilla.htm" cnt="95" />
+<item str="_miPlantilla.htm" cnt="95" />
+<item str="cgi-bin/calculadora.prestamos.pl" cnt="94" />
+<item str="cmac/cgi-bin/calculadora.prestamos.pl" cnt="92" />
+<item str="cgi-bin/calculadora.plazo.fijo.soles.pl" cnt="91" />
+<item str="cmac/cgi-bin/calculadora.plazo.fijo.soles.pl" cnt="85" />
+<item str="BD  Laboratorios/Lab 05 - Base de datos Neptuno.mdb" cnt="82" />
+<item str="BD  Laboratorios/Lab 05 - Estructura Neptuno.pdf" cnt="54" />
+<item str="001_000.htm" cnt="54" />
+<item str="cgi-bin/noticortas.graba.pl" cnt="43" />
+<item str="cmac/001_000.htm" cnt="42" />
+<item str="BD  Laboratorios/Forms/AllItems.htm" cnt="37" />
+<item str="cmac/miPlantilla.htm" cnt="35" />
+<item str="miPlantilla.htm" cnt="27" />
+<item str="cmac/Default.htm" cnt="27" />
+</month>
+<month val="nov 2002" total="200">
+<item str="cgi-bin/busqueda.emails.pl" cnt="103" />
+<item str="cgi-bin/calculadora.plazo.fijo.soles.pl" cnt="46" />
+<item str="Default.htm" cnt="16" />
+<item str="images/cmac_001.swf" cnt="16" />
+<item str="nuevo_index.htm" cnt="5" />
+<item str="index.htm" cnt="4" />
+<item str="cgi-bin/calculadora.plazo.fijo.dolares.pl" cnt="3" />
+<item str="BD  Laboratorios/Lab 05 - Estructura Neptuno.pdf" cnt="2" />
+<item str="cmac/nuevo_index.htm" cnt="1" />
+<item str="BD  Laboratorios/Lab 05 - Base de datos Neptuno.mdb" cnt="1" />
+<item str="Fotos Desa80/Forms/AllItems.htm" cnt="1" />
+<item str="acerca_de.htm" cnt="1" />
+<item str="cmac/images/cmac_001.swf" cnt="1" />
+</month>
+</usagedata>

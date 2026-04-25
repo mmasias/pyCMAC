@@ -1,0 +1,27 @@
+@charset "iso-8859-1";
+/* ESTILOS DE LOS VINCULOS */
+
+P.Menu           { FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #FFFFFF; FONT-FAMILY: MS Sans Serif, Verdana, Arial, Helvetica, sans-serif }
+A.Menu           { TEXT-DECORATION: none; color: #FFFFFF; }
+A.Menu:hover     { TEXT-DECORATION: underline; color: #FFFFFF; }
+
+
+P.Indice         { FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif }
+A.Indice         { TEXT-DECORATION: none; COLOR: #000000 }
+A.Indice:hover   { TEXT-DECORATION: none; color: #DD0000; }
+
+.Menu           { FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #FFFFFF; FONT-FAMILY: MS Sans Serif, Verdana, Arial, Helvetica, sans-serif }
+.TextoNormal     { FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif }
+.TextoNormal2    { FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif }
+.TituloIndice    { FONT-SIZE: 18px; FONT-WEIGHT: bold; COLOR: #FFFFFF; FONT-FAMILY: Arial Narrow, Arial, sans-serif }
+
+
+P.btnInicio       { FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #DD0000; FONT-FAMILY: MS Sans Serif, Verdana, Arial, Helvetica, sans-serif }
+A.btnInicio       { COLOR: #DD0000; TEXT-DECORATION: none }
+A.btnInicio:hover { TEXT-DECORATION: underline }
+
+.TitularSeccion   { FONT-SIZE: 24px; FONT-WEIGHT: bold; COLOR: #DD0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif }
+.TitularSeccion2  { FONT-SIZE: 18px; FONT-WEIGHT: bold; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif }
+.TitularSeccion3  { FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif }
+
+.TextoDestacable  { TEXT-ALIGN: center; FONT-SIZE: 24px; FONT-WEIGHT: bold; COLOR: #000000; FONT-FAMILY: Arial Narrow, Arial, Helvetica, sans-serif }

@@ -1,0 +1,172 @@
+<html><head><title>Administración de NotiCortas</title>
+<link rel="stylesheet" type="text/css" href="../../estilo_cmac.css">
+<meta name="Microsoft Border" content="none">
+</head>
+
+<body bgcolor="#FFFFFF">
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="5" width="100%">
+    <tr>
+      <td align="center" bgcolor="#CC3300">
+      <font face="Arial" size="4" color="#FFFFFF"><b>Administrador de Noticias<br>
+      CMAC - Sullana</b></font></td>
+      <td>
+<div align="center">
+  <table border="0" cellpadding="5" cellspacing="0" width="350">
+    <tr>
+      <td bgcolor="#FFFFE6"><font face="Verdana" size="1">La versión actual del 
+      Administrador de Noticias soporta hasta <b><font color="#FF0000">5</font></b> noticias
+        concurrentes.
+        Sírvase ingresarlas en los recuadros que aparecen en la parte inferior.
+        Si deja algun recuadro en blanco, este será ignorado. (Para mayores
+        detalles consulte la <b>documentación</b>)</font></td>
+    </tr>
+  </table>
+</div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <hr size="1" color="#004C92">
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<form method="POST" action="noticortas.graba.pl" onSubmit="">
+
+  <div align="center">
+    <center>
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td>
+          <div align="left">
+            <table border="0" cellpadding="2" cellspacing="0" width="100%" bgcolor="#008080">
+              <tr>
+                <td><font face="Verdana" size="1" color="#FFFFFF"><b>Titular de la noticia:</b></font></td>
+                <td align="right"><font color="#FFFFFF"><b><input type="text" name="Titular1" size="33" value="$Titular[1]"></b></font></td>
+              </tr>
+            </table>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><font face="Verdana" size="1">Cuerpo de la noticia<br>
+          </font><textarea rows="4" name="Noticia1" cols="44">$Noticia[1]</textarea></td>
+      </tr>
+      <tr>
+        <td>
+          <hr size="1" color="#004C92">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div align="left">
+            <table border="0" cellpadding="2" cellspacing="0" width="100%" bgcolor="#008080">
+              <tr>
+                <td><font face="Verdana" size="1" color="#FFFFFF"><b>Titular de la noticia:</b></font></td>
+                <td align="right"><font color="#FFFFFF"><b><input type="text" name="Titular2" size="33" value="$Titular[2]"></b></font></td>
+              </tr>
+            </table>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><font face="Verdana" size="1">Cuerpo de la noticia</font></td>
+      </tr>
+      <tr>
+        <td><textarea rows="4" name="Noticia2" cols="44">$Noticia[2]</textarea></td>
+      </tr>
+      <tr>
+        <td>
+          <hr size="1" color="#004C92">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div align="left">
+            <table border="0" cellpadding="2" cellspacing="0" width="100%" bgcolor="#008080">
+              <tr>
+                <td><font face="Verdana" size="1" color="#FFFFFF"><b>Titular de la noticia:</b></font></td>
+                <td align="right"><font color="#FFFFFF"><b><input type="text" name="Titular3" size="33" value="$Titular[3]"></b></font></td>
+              </tr>
+            </table>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><font face="Verdana" size="1">Cuerpo de la noticia</font></td>
+      </tr>
+      <tr>
+        <td><textarea rows="4" name="Noticia3" cols="44">$Noticia[3]</textarea></td>
+      </tr>
+      <tr>
+        <td>
+          <hr size="1" color="#004C92">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div align="left">
+            <table border="0" cellpadding="2" cellspacing="0" width="100%" bgcolor="#008080">
+              <tr>
+                <td><font face="Verdana" size="1" color="#FFFFFF"><b>Titular de la noticia:</b></font></td>
+                <td align="right"><font color="#FFFFFF"><b><input type="text" name="Titular4" size="33" value="$Titular[4]"></b></font></td>
+              </tr>
+            </table>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><font face="Verdana" size="1">Cuerpo de la noticia</font></td>
+      </tr>
+      <tr>
+        <td><textarea rows="4" name="Noticia4" cols="44">$Noticia[4]</textarea></td>
+      </tr>
+      <tr>
+        <td>
+          <hr size="1" color="#004C92">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div align="left">
+            <table border="0" cellpadding="2" cellspacing="0" width="100%" bgcolor="#008080">
+              <tr>
+                <td><font face="Verdana" size="1" color="#FFFFFF"><b>Titular de la noticia:</b></font></td>
+                <td align="right"><font color="#FFFFFF"><b><input type="text" name="Titular5" size="33" value="$Titular[5]"></b></font></td>
+              </tr>
+            </table>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><font face="Verdana" size="1">Cuerpo de la noticia</font></td>
+      </tr>
+      <tr>
+        <td><textarea rows="4" name="Noticia5" cols="44">$Noticia[5]</textarea></td>
+      </tr>
+      <tr>
+        <td>
+          <hr size="1" color="#004C92">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <font color="#FFFFFF"><b>
+          <input type="text" name="Titular6" size="33" value="$Titular[6]"></b></font></td>
+      </tr>
+      <tr>
+        <td>
+          <textarea rows="4" name="Noticia6" cols="44">$Noticia[6]</textarea></td>
+      </tr>
+    </table>
+    </center>
+  </div>
+  <p align="center"><input type="submit" value="Enviar"></p>
+</form>
+<p>&nbsp;</p>
+</body>
+
+</html>

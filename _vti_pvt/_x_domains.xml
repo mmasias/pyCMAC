@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="oct 2002" total="332">
+<item str="172.30.8.67" cnt="207" />
+<item str="172.30.6.157" cnt="11" />
+<item str="172.30.2.73" cnt="9" />
+<item str="172.30.6.80" cnt="9" />
+<item str="172.30.2.1" cnt="8" />
+<item str="172.30.6.219" cnt="8" />
+<item str="172.30.6.160" cnt="7" />
+<item str="172.30.6.75" cnt="7" />
+<item str="172.30.2.37" cnt="6" />
+<item str="172.30.10.32" cnt="6" />
+<item str="127.0.0.1" cnt="5" />
+<item str="172.30.4.174" cnt="5" />
+<item str="172.30.8.93" cnt="5" />
+<item str="172.30.2.77" cnt="5" />
+<item str="172.30.6.232" cnt="4" />
+<item str="172.30.2.88" cnt="4" />
+<item str="172.30.2.154" cnt="4" />
+<item str="172.30.6.144" cnt="4" />
+<item str="172.30.2.96" cnt="3" />
+<item str="172.30.3.213" cnt="3" />
+<item str="172.30.8.121" cnt="2" />
+<item str="172.30.2.21" cnt="2" />
+<item str="172.30.8.86" cnt="2" />
+<item str="172.30.6.70" cnt="1" />
+<item str="172.30.8.81" cnt="1" />
+</month>
+<month val="nov 2002" total="20">
+<item str="172.30.8.67" cnt="6" />
+<item str="172.30.6.75" cnt="3" />
+<item str="172.30.3.213" cnt="3" />
+<item str="172.30.6.232" cnt="1" />
+<item str="172.30.6.219" cnt="1" />
+<item str="172.30.8.36" cnt="1" />
+<item str="172.30.3.225" cnt="1" />
+<item str="172.30.2.77" cnt="1" />
+<item str="172.30.2.88" cnt="1" />
+<item str="172.30.6.80" cnt="1" />
+<item str="172.30.6.199" cnt="1" />
+</month>
+</usagedata>

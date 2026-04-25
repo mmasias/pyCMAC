@@ -1,0 +1,46 @@
+      <h2 class="TitularSeccion">Directorio Electrónico</h2>
+<form method="POST">
+  <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
+    <tr>
+      <td width="100%"><i><b><font face="Arial">$Criterios</font></b></i></td>
+    </tr>
+  </table>
+  <table border="1" cellpadding="3" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3">
+    <tr>
+      <td align="center" bgcolor="#000000"><b>
+      <font face="Verdana" size="1" color="#FFFFFF">
+      Ciudad</font></b></td>
+      <td align="center" bgcolor="#000000"><b>
+      <font face="Verdana" size="1" color="#FFFFFF">
+      Cargo</font></b></td>
+      <td align="center" bgcolor="#000000"><b>
+      <font face="Verdana" size="1" color="#FFFFFF">
+      Apellidos</font></b></td>
+      <td align="center" bgcolor="#000000"><b>
+      <font face="Verdana" size="1" color="#FFFFFF">
+      Email</font></b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <select size="1" name="cmbCiudad">
+        <option value="$Separador">-Cualquiera-</option>
+        
+        $ListaCiudades
+        </select></td>
+      <td align="center">
+        <select size="1" name="cmbCargo">
+        <option value="$Separador">-Cualquiera-</option>
+        
+        $ListaCargos
+        </select></td>
+      <td align="center">
+        <input type="text" name="txtNombre" size="17"></td>
+      <td align="center"><input type="submit" value="Buscar!" name="btnBuscar"></td>
+    </tr>
+    
+$Respuesta
+
+    
+  </table>
+  <p align="center">&nbsp;</p>
+</form>

@@ -1,0 +1,53 @@
+Numero¤Agencia¤Ciudad¤Cargo¤Apellidos¤Nombres¤Email
+1¤Principal¤Sullana¤Administrador¤Otero Nuñez¤Rogelio¤adm-ag01@cmac-sullana.com.pe
+2¤Principal¤Sullana¤Administrador¤Estrada Celi¤Betty¤adm-ag02@cmac-sullana.com.pe
+3¤3¤Talara¤Administrador¤Correa Manrique¤Socorro¤adm_ag03@cmac-sullana.com.pe
+4¤4¤Tumbes¤Administrador¤Neyra Alvarez¤Jaime¤adm-ag04@cmac-sullana.com.pe
+5¤5¤Huacho¤Administrador¤Saavedra Dionicio¤Maria¤adm-ag05@cmac-sullana.com.pe
+6¤6¤Barranca¤Administrador¤Aguirre Nole¤Oscar¤adm-ag06@cmac-sullana.com.pe
+7¤7¤Huaral¤Administrador¤Alarcon Alva¤Jorge¤adm-ag07@cmac-sullana.com.pe
+8¤Principal¤Sullana¤Jefe de Contabilidad¤Agurto Correa¤Juan¤contabilidad@cmac-sullana.com.pe
+9¤Principal¤Sullana¤Jefe de Auditoría¤Correa Valladares¤Carlos¤auditoria@cmac-sullana.com.pe
+10¤Principal¤Sullana¤Asistente de Planeamiento¤Robles Reto¤Francis¤planificacion@cmac-sullana.com.pe
+11¤Principal¤Sullana¤Jefe de Caja General¤Jimenez Chinga¤Rossana¤cjageneral@cmac-sullana.com.pe
+12¤Principal¤Sullana¤Gerente de Ahorros¤Leon Castro¤Alfredo¤aleon@cmac-sullana.com.pe
+13¤Principal¤Sullana¤Gerente de Créditos¤Calle Renteria¤Samy¤scalle@cmac-sullana.com.pe
+14¤Principal¤Sullana¤Gerente de Administración¤Fernandez Oliva¤Bertha¤bfernandez@cmac-sullana.com.pe
+15¤Principal¤Sullana¤Jefe de Asesoria Legal¤Crisanto Lozada¤Andres¤legal@cmac-sullana.com.pe
+16¤Principal¤Sullana¤Jefe de Sistemas¤Chavez Varona¤David¤informatica@cmac-sullana.com.pe
+17¤Principal¤Sullana¤Jefe de Logistica¤Rosado García¤Yanina¤logistica@cmac-sullana.com.pe
+18¤Principal¤Sullana¤Jefe de Unidad de Riesgos¤Lamela Salazar¤Luis¤uriesgos@cmac-sullana.com.pe
+19¤Principal¤Sullana¤Jefe de Imagen Institucional¤Casana Cardenas¤Manuel¤notisull@cmac-sullana.com.pe
+20¤Principal¤Sullana¤Jefe de Créditos¤Liviapoma Castillo¤Renee¤jefedecreditos@cmac-sullana.com.pe
+21¤Principal¤Sullana¤Jefe de Recuperaciones¤Castillo Cortez¤Norma¤recuperaciones@cmac-sullana.com.pe
+22¤Principal¤Sullana¤Jefe de Organización y Metodos¤Timana Morales¤Manuel¤ometodos@cmac-sullana.com.pe
+23¤Principal¤Sullana¤Jefe de Seguridad¤Feria Valdiviezo¤Jorge¤seguridad@cmac-sullana.com.pe
+24¤Principal¤Sullana¤Jefe de Recursos Humanos¤Ortiz Castro¤Carmen¤recursos-humanos@cmac-sullana.com.pe
+25¤Principal¤Sullana¤Asistente Social¤Arrunategui Columbus¤Lourdes¤asistencia-social@cmac-sullana.com.pe
+26¤Principal¤Sullana¤Jefe de Ahorros¤Fernandez Rumiche¤Javier¤jefedeahorros@cmac-sullana.com.pe
+27¤Principal¤Sullana¤Gerente de Proyecto¤Rodriguez Alva¤Jorge¤jrodriguez@cmac-sullana.com.pe
+28¤Principal¤Sullana¤Asistente de Informática¤Bayona Querevalu¤Guillermo¤guillermo-bayona@cmac-sullana.com.pe
+29¤Principal¤Sullana¤Auxiliar de Informática¤Juarez Reto¤Edith¤ejuarez@cmac-sullana.com.pe
+30¤Principal¤Sullana¤Secretaria de Gerencia¤Castro Estrada¤Julia¤cajasullana@cmac-sullana.com.pe
+31¤Principal¤Sullana¤Asistente de Informática¤Garcia Pasco¤Mary¤maryel@cmac-sullana.com.pe
+32¤Principal¤Sullana¤Asistente de Informática¤Reto Zapata¤Kary¤kretoz@cmac-sullana.com.pe
+33¤Principal¤Sullana¤Asistente de Informática¤Murguia León¤Patricia¤pmurguia@cmac-sullana.com.pe
+34¤Principal¤Sullana¤Ejecutivo de Creditos¤¤¤ejecutivocreditosag01@cmac-sullana.com.pe
+35¤Principal¤Sullana¤Ejecutivo de Creditos¤Sialer Zamora¤Luisa¤ejecutivocreditosag02@cmac-sullana.com.pe
+36¤3¤Talara¤Ejecutivo de Creditos¤Ortiz Granda¤Dario¤ejecutivocreditosag03@cmac-sullana.com.pe
+37¤4¤Tumbes¤Ejecutivo de Creditos¤Narro Miranda¤Victor¤ejecutivocreditosag04@cmac-sullana.com.pe
+38¤5¤Huacho¤Ejecutivo de Creditos¤Calderon Silva¤Mayer¤ejecutivocreditosag05@cmac-sullana.com.pe
+39¤6¤Barranca¤Ejecutivo de Creditos¤¤¤ejecutivocreditosag06@cmac-sullana.com.pe
+40¤Principal¤Sullana¤Auxiliar de Informática¤Lachira Matias¤Luis¤servicio-tecnico@cmac-sullana.com.pe
+41¤-¤Ayabaca¤Oficina Especial Ayabaca¤¤¤oficina-ayabaca@cmac-sullana.com.pe
+42¤-¤Aguas Verdes¤Oficina Especial Aguas Verdes¤¤¤oficina-aguas-verdes@cmac-sullana.com.pe
+43¤Principal¤Sullana¤Asistente de Asesoría Legal¤Mejia Seminario¤Juan¤asistente-legal02@cmac-sullana.com.pe
+44¤Principal¤Sullana¤Asistente de Asesoría Legal¤Rojas Gonzalez¤Flor¤asistente-legal01@cmac-sullana.com.pe
+45¤Principal¤Sullana¤Auxiliar de Logistica¤Valdiviezo Crisanto¤Arnaldo¤auxiliar-logistica01@cmac-sullana.com.pe
+46¤Principal¤Sullana¤Auxiliar de Logistica¤Chavez Vilchez¤Maria¤auxiliar-logistica02@cmac-sullana.com.pe
+47¤Principal¤Sullana¤Asistente de Administración¤Guerra Seminario¤Sarely¤asistente-ag01@cmac-sullana.com.pe
+48¤Principal¤Sullana¤Asistente de Administración¤Otero Lima¤Pilar¤asistente-ag02@cmac-sullana.com.pe
+49¤3¤Talara¤Asistente de Administración¤Castillo Mayta¤Jose¤asistente-ag03@cmac-sullana.com.pe
+50¤4¤Tumbes¤Asistente de Administración¤Gutierrez Perez¤Pedro¤asistente-ag04@cmac-sullana.com.pe
+51¤5¤Huacho¤Asistente de Administración¤Trelles Pozo¤Cecilia¤asistente-ag05@cmac-sullana.com.pe
+52¤6¤Barranca¤Asistente de Administración¤Peralta Chang¤Orlando¤asistente-ag06@cmac-sullana.com.pe
