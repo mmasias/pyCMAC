@@ -213,6 +213,28 @@ Es generación de páginas estáticas desde un panel de administración — el m
 
 ---
 
+## Valoración técnica
+
+Para su época (2000-2002), el proyecto muestra criterio de diseño que va más allá de lo que era práctica habitual.
+
+**Lo que resiste el tiempo**
+
+El patrón de componentes JS es la decisión más interesante. Extraer cabecera, menú y pie a archivos `.js` independientes e inyectarlos con `document.write()` no era la práctica estándar — la mayoría de sitios de la época duplicaba HTML en cada página o usaba frames (el antipatrón dominante). Es una solución limpia a un problema real de mantenibilidad, con el único mecanismo disponible en el cliente sin infraestructura de servidor.
+
+El motor de plantillas por `eval()` es igualmente revelador. En lugar de concatenar HTML dentro del script Perl, se invierte el problema: el archivo HTML es el maestro y el script genera el código que lo ejecuta. Es retorcido, pero separa el diseño de la lógica sin ninguna librería externa. La firma de las 4:05 AM del 14 de junio de 2000 cuenta que llegar ahí tuvo su coste.
+
+El CMS de noticortas es lo más avanzado conceptualmente: generación de páginas estáticas desde un panel de administración con previsualización antes de publicar. Es exactamente el modelo que décadas después popularizarían Jekyll, Hugo o Eleventy — aquí implementado en Perl, sin nombre y sin que existiera el concepto.
+
+El separador `¤` en las bases de datos planas es un detalle pequeño pero preciso: alguien pensó en los datos reales antes de elegirlo — imposible de teclear accidentalmente en un sistema con teclado en inglés, improbable en nombres o cifras financieras.
+
+En general: no duplicar, separar responsabilidades, pensar en el operador del sistema. Eso no ha cambiado.
+
+**Lo que no envejeció bien**
+
+Predecible y completamente propio de la época: tablas HTML para maquetar, `document.write()`, `eval()` de strings, variables globales en Perl sin `use strict`, rutas absolutas hardcodeadas con el entorno de desarrollo activo en producción, y dos líneas de debug sin eliminar en `busqueda.emails.pl`. Nada de esto era un error en 2002 — era el estado del arte.
+
+---
+
 ## Notas de época
 
 - La portada anunciaba un sorteo de un departamento en la zona residencial "más exclusiva de Lima" para el 4 de enero (previsiblemente 2003).

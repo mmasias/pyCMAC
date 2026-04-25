@@ -39,5 +39,20 @@ El código fuente registra la autoría de:
 - [0r3j0]
 - [P14j3n0]
 
-## Notas de Infraestructura
-La existencia de directorios _vti_cnf confirma la dependencia de las FrontPage Server Extensions (FPSE), utilizadas para la sincronización de archivos y el mantenimiento del sitio a través de protocolos RPC de Microsoft.
+## Conclusiones y Valor de Ingeniería
+
+Desde la perspectiva de la ingeniería de software, el proyecto pyCMAC destaca por su eficiencia pragmática y un diseño modular avanzado para su época.
+
+### 1. Pragmática de Datos (Flat-file Databases)
+La elección de archivos .bd procesados mediante Perl en lugar de un motor de base de datos relacional (RDBMS) representa una solución óptima para el contexto de 2002. Esta arquitectura minimizaba los costes de infraestructura y la sobrecarga del servidor, proporcionando persistencia y dinamismo suficientes para la escala de la institución sin introducir complejidad innecesaria en el despliegue.
+
+### 2. Componentización Primitiva
+El uso de scripts JavaScript externos (borde_superior.js, etc.) para inyectar elementos comunes de la interfaz es un precursor funcional de la componentización moderna. Esta técnica resolvió el problema del mantenimiento centralizado bajo el principio DRY (Don't Repeat Yourself), permitiendo actualizaciones globales de la navegación sin necesidad de recurrir a Server Side Includes (SSI) o procesamientos costosos en el servidor.
+
+### 3. Rigor en el Cálculo Financiero
+El núcleo del sistema reside en su capacidad algorítmica. Los scripts de simulación de créditos y plazos fijos implementan lógica de negocio crítica, separando las variables financieras (tasas de interés) del código ejecutable. Esta abstracción permitía la reconfiguración del sistema por parte de administradores sin intervención en el código fuente, una práctica de diseño profesional y robusta.
+
+### 4. Robustez y Portabilidad
+La estructura del código revela una previsión para el despliegue multiplataforma, incluyendo configuraciones específicas para entornos Unix/Linux y Windows/IIS. Esta flexibilidad era fundamental en un periodo de transición y competencia entre arquitecturas de servidores web.
+
+En definitiva, este proyecto es un ejemplo de artesanía digital donde la escasez de recursos (ancho de banda y capacidad de cómputo) fue compensada con una arquitectura ingeniosa, modular y estrictamente funcional.
